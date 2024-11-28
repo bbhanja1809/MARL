@@ -14,11 +14,11 @@ python3 src/main.py --config=qmix --env-config=metadrive
 ```
 **MultiAgentTollgateEnv:**
 ```
-python3 src/main.py --config=qmix --env-config=metadrive_intersection
+python3 src/main.py --config=qmix --env-config=metadrive_tollgate
 ```
 **MultiAgentBottleneckEnv:**
 ```
-python3 src/main.py --config=qmix --env-config=metadrive_intersection
+python3 src/main.py --config=qmix --env-config=metadrive_bottlekneck
 ```
 **MultiAgentIntersectionEnv:**
 ```
@@ -26,9 +26,9 @@ python3 src/main.py --config=qmix --env-config=metadrive_intersection
 ```
 **MultiAgentRoundaboutEnv:**
 ```
-python3 src/main.py --config=qmix --env-config=metadrive_intersection
+python3 src/main.py --config=qmix --env-config=metadrive_roundabout
 ```
 **MultiAgentParkingLotEnv:**
 ```
-python3 src/main.py --config=qmix --env-config=metadrive_intersection
+python3 src/main.py --config=qmix --env-config=metadrive_parkinglot
 ```
