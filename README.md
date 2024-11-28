@@ -28,7 +28,7 @@ python3 src/main.py --config=qmix --env-config=metadrive_intersection
 ```
 python3 src/main.py --config=qmix --env-config=metadrive_intersection
 ```
-MultiAgentParkingLotEnv:
+**MultiAgentParkingLotEnv:**
 ```
 python3 src/main.py --config=qmix --env-config=metadrive_intersection
 ```
